@@ -1,0 +1,7 @@
+{
+  "Food": {
+    "id": "int",
+    "title": "string",
+    "price": "int",
+  },
+}
