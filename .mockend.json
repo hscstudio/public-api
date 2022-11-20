@@ -3,6 +3,6 @@
     "id": "number",
     "title": "string",
     "status": "boolean",
-    "createdAt": "date",
+    "createdAt": "date"
   }
 }
