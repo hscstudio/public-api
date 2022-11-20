@@ -1,7 +1,7 @@
 {
   "Todo": {
     "id": "int",
-    "title": "string",
+    "title": { "string": {} },
     "status": "boolean",
     "createdAt": "dateTime"
   }
